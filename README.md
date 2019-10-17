@@ -5,6 +5,7 @@ Här håller vi på att bygga upp information till utvecklare och andra som är 
 ## Bakgrund och information om RÖD
 * Presentationer
 * Strategi- och arkitektur-dokument
+* Utvecklarguide/regelverk
 ...
 
 ## Inloggning & Access
