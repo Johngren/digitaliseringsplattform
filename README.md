@@ -23,5 +23,6 @@ Här håller vi på att bygga upp information till utvecklare och andra som är 
 ## Öppna data
 Många av ovanstående tjänster kan innehålla persondata och kräver inloggning, anonymiserade Öppna Data finns istället under https://www.regionostergotland.se/psidata/
 
-Saker markerade med * ovan baserar sig på (internationella) öppna standarder eller specifikationer
-Saker markerade med ** ovan har utöver API tillhörande klientmjukvara (ivbalnd även mobilapplikation) som är tillgägnlig för regionmedarbetare och kan tillgängliggöras för samarbetspartners
+## Teckenförklaring
+* Saker markerade med * ovan baserar sig på (internationella) öppna standarder eller specifikationer
+* Saker markerade med ** ovan har utöver API tillhörande klientmjukvara (ivbalnd även mobilapplikation) som är tillgägnlig för regionmedarbetare och kan tillgängliggöras för samarbetspartners
