@@ -12,10 +12,11 @@ Här håller vi på att bygga upp information till utvecklare och andra som är 
 
 ## Tillgängliga API:n och komponenter
 * Strukturerad Vårdinformation [openEHR](https://www.openehr.org/)* via Better Plattform, se https://www.ehrscape.com/ för API
-* Filöverföring/lagring [FileCloud](https://www.getfilecloud.com/developer/) och WebDAV* (via FileCloud)
+* Filöverföring/lagring [FileCloud](https://www.getfilecloud.com/developer/)** och WebDAV* (via FileCloud)
  
 ## API:n och komponenter på gång
 * DICOM* Worklists (Går att koppla till journalsystemet Cosmic och PACS)
+* Bild- och filmhantering (inkl. mellanlagring) via VidiView**, flöden kan kopplas till PACS för permanent lagring.
 * Skicka SMS
 * ...
 
@@ -23,3 +24,4 @@ Här håller vi på att bygga upp information till utvecklare och andra som är 
 Många av ovanstående tjänster kan innehålla persondata och kräver inloggning, anonymiserade Öppna Data finns istället under https://www.regionostergotland.se/psidata/
 
 Saker markerade med * ovan baserar sig på (internationella) öppna standarder eller specifikationer
+Saker markerade med ** ovan har utöver API tillhörande klientmjukvara (ivbalnd även mobilapplikation) som är tillgägnlig för regionmedarbetare och kan tillgängliggöras för samarbetspartners
